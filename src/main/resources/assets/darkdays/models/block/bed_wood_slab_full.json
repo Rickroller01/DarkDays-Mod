@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "darkdays:blocks/bed_wood_planks",
+    "top": "darkdays:blocks/bed_wood_planks",
+    "side": "darkdays:blocks/bed_wood_planks"
+  }
+}

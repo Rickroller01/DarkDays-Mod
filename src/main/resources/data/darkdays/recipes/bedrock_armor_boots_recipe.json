@@ -1,0 +1,26 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "2": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "3": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "5": {
+      "item": "darkdays:bedrock_dust"
+    }
+  },
+  "result": {
+    "item": "darkdays:bedrock_armor_boots",
+    "count": 1
+  }
+}

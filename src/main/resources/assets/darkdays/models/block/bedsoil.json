@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darkdays:blocks/bedsoil",
+    "up": "darkdays:blocks/bedsoil",
+    "north": "darkdays:blocks/bedsoil",
+    "east": "darkdays:blocks/bedsoil",
+    "south": "darkdays:blocks/bedsoil",
+    "west": "darkdays:blocks/bedsoil",
+    "particle": "darkdays:blocks/bedsoil"
+  }
+}

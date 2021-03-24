@@ -1,0 +1,26 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "darkdays:bed_wood_log"
+    },
+    "1": {
+      "item": "darkdays:bed_wood_log"
+    },
+    "2": {
+      "item": "darkdays:bed_wood_log"
+    },
+    "3": {
+      "item": "darkdays:bed_wood_log"
+    }
+  },
+  "result": {
+    "item": "darkdays:bed_wood_wood",
+    "count": 3
+  }
+}

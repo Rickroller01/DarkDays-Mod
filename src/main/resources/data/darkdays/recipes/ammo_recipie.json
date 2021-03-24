@@ -1,0 +1,36 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "darkdays:steel_ingot"
+    },
+    "3": {
+      "item": "darkdays:steel_ingot"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "darkdays:steel_ingot"
+    },
+    "6": {
+      "item": "darkdays:steel_ingot"
+    },
+    "7": {
+      "item": "minecraft:gunpowder"
+    },
+    "8": {
+      "item": "darkdays:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "darkdays:ammo",
+    "count": 16
+  }
+}

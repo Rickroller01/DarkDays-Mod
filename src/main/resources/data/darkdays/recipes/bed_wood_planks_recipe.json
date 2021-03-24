@@ -1,0 +1,13 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bed_wood_log"
+    }
+  ],
+  "result": {
+    "item": "darkdays:bed_wood_planks",
+    "count": 4
+  }
+}

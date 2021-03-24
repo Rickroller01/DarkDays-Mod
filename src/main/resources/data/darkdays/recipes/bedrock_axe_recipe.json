@@ -1,0 +1,30 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "1": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "2": {
+      "item": "darkdays:bedrock_dust"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "darkdays:bedrock_axe",
+    "count": 1
+  }
+}

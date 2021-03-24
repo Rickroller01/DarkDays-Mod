@@ -1,0 +1,11 @@
+{
+  "ggwandsound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "darkdays:ggwandsound",
+        "stream": false
+      }
+    ]
+  }
+}

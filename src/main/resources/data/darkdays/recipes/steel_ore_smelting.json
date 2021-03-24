@@ -1,0 +1,12 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "darkdays:steel_ore"
+  },
+  "result": {
+    "item": "darkdays:steel_ingot"
+  }
+}

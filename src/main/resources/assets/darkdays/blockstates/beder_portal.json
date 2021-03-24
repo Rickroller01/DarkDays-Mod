@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "darkdays:block/beder_portal_ew"
+    },
+    "axis=x": {
+      "model": "darkdays:block/beder_portal_ns"
+    }
+  }
+}

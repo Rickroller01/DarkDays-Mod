@@ -1,0 +1,13 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkdays:steel_block"
+    }
+  ],
+  "result": {
+    "item": "darkdays:steel_ingot",
+    "count": 9
+  }
+}

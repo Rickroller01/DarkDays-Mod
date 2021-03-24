@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "darkdays:blocks/bed_wood_leaves",
+    "particle": "darkdays:blocks/bed_wood_leaves"
+  }
+}

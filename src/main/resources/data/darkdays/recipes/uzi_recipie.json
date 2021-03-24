@@ -1,0 +1,30 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "darkdays:steel_ingot"
+    },
+    "4": {
+      "item": "darkdays:steel_ingot"
+    },
+    "5": {
+      "item": "darkdays:steel_ingot"
+    },
+    "8": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "darkdays:uzi",
+    "count": 1
+  }
+}

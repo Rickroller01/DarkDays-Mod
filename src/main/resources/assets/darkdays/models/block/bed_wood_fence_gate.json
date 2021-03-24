@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "darkdays:blocks/bed_wood_planks"
+  }
+}

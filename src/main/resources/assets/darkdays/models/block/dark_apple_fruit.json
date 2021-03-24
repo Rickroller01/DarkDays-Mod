@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "darkdays:blocks/darkapple",
+    "particle": "darkdays:blocks/darkapple"
+  }
+}

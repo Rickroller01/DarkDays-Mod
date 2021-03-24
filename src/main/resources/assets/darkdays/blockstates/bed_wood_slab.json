@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "darkdays:block/bed_wood_slab"
+    },
+    "type=top": {
+      "model": "darkdays:block/bed_wood_slab_top"
+    },
+    "type=double": {
+      "model": "darkdays:block/bed_wood_slab_full"
+    }
+  }
+}

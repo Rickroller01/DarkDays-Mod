@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:BedrockBlock"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0.74,
+    "portalSound": {
+      "value": "CUSTOM:ggwandsound"
+    },
+    "igniterName": "Beder Stone",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "wandammo",
+    "portalTexture": "liquidbedrock",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:BedrockBiome"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Bedstone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:LiquidBedrock"
+    },
+    "airColor": {
+      "value": -12961222,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkdays:bedrock_block"
+    }
+  ],
+  "result": {
+    "item": "darkdays:bedrock_dust",
+    "count": 9
+  }
+}

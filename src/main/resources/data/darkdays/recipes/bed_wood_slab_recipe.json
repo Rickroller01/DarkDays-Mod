@@ -1,0 +1,22 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "darkdays:bed_wood_planks"
+    },
+    "1": {
+      "item": "darkdays:bed_wood_planks"
+    },
+    "2": {
+      "item": "darkdays:bed_wood_planks"
+    }
+  },
+  "result": {
+    "item": "darkdays:bed_wood_slab",
+    "count": 6
+  }
+}

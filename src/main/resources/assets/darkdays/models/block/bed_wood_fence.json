@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "darkdays:blocks/bed_wood_planks",
+    "particle": "darkdays:blocks/bed_wood_planks"
+  }
+}

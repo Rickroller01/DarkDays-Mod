@@ -1,0 +1,26 @@
+{
+  "group": "darkdays",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "darkdays:steel_ingot"
+    },
+    "2": {
+      "item": "darkdays:steel_ingot"
+    },
+    "3": {
+      "item": "darkdays:steel_ingot"
+    },
+    "5": {
+      "item": "darkdays:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "darkdays:steel_armor_boots",
+    "count": 1
+  }
+}
